@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library and selecting a very large image.  The app crashes on Android with the error message: "Fatal Exception: java.lang.OutOfMemoryError: Failed to allocate a 3867680 byte allocation with 2190720 free bytes and 1MB overhead."
